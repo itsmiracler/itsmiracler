@@ -42,7 +42,7 @@ Software programming has been a passion of mine since I received my first Raspbe
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Stats Overview](https://user-images.githubusercontent.com/33221818/195592283-309cc41b-d248-4d37-a394-7b542a7ad94c.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
 </a>

@@ -10,7 +10,7 @@ Software programming has been a passion of mine since I received my first Raspbe
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
+- 🤝 &nbsp; I’m looking to collaborate on [sheets-database]
 - 🌱 &nbsp; I’m currently learning webXR; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/itsmiracler?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉

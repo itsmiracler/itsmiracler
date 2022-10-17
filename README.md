@@ -20,6 +20,14 @@ Software programming has been a passion of mine since I received my first Raspbe
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels. 
 
 <br>
+## 📕 Top projects I've contributed to
+
+<!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
+<p align="left">
+  <a href="https://github.com/itsmiracler/Practical-CleanArchitecture"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=itsmiracler&repo=Practical-CleanArchitecture&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="practical-cleanArchitecture"></a>
+  <a href="https://github.com/itsmiracler/MicroErp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=itsmiracler&repo=MicroErp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+</p>
+
 
 ### 🔨 Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 

@@ -27,6 +27,8 @@ Software programming has been a passion of mine since I received my first Raspbe
   <a href="https://github.com/itsmiracler/Practical-CleanArchitecture"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=itsmiracler&repo=Practical-CleanArchitecture&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="practical-cleanArchitecture"></a>
   <a href="https://github.com/itsmiracler/MicroErp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=itsmiracler&repo=MicroErp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 </p>
+  <a href="https://github.com/itsmiracler/ng-state-inspector"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=itsmiracler&repo=ng-state-inspector&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+</p>
 
 
 ### 🔨 Languages and Tools:

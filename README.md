@@ -1,4 +1,4 @@
-## Hey 👋, I'm Jean Francois!
+## Hello World👋!
 
 Software programming has been a passion of mine since I received my first Raspberry Pi📱 in middle school. Having grown up living abroad and traveling around the globe, I am accustomed to change and work well with people of all backgrounds. A collaborative, high-energy team builder, I believe in not just doing it right but doing it better and differently. Experienced in Object Oriented Programming and Agile Methodologies🌐, A quick learner, I have the initiative to tackle challenges head-on, the character to overcome obstacles, and the confidence to positively influence others at every level of the organization. A champion of technology and innovation, I am driven to succeed in all I do 🛠️.
 
@@ -15,8 +15,6 @@ Software programming has been a passion of mine since I received my first Raspbe
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/itsmiracler?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jean-francois-07aa61243/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1JHb5DKDzCcO68axhI3uLZEjlkZK2IyWl/view?usp=sharing)
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels. 
 
 <br>

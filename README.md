@@ -1,9 +1,9 @@
 ## Hello World👋!
 
-Frontend : React.js, angular (Advanced)
-Backend : Asp.net, Ruby on Rails, Node(Advanced) 
-          Python, Rust (Intermediate)🛠️.
-Serverless: AWS lamda  
+- Frontend : React.js, angular (Advanced)<br/>
+- Backend : Asp.net, Ruby on Rails, Node(Advanced) 
+            Python, Rust (Intermediate)🛠️.<br/>
+- Serverless: AWS lamda  
 <br/>
 <br/>
 

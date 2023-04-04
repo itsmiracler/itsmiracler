@@ -7,7 +7,7 @@ Tech stacks I am using mostly are
 - Frontend : React.js, angular (Advanced)<br/>
 - Backend : Asp.net, Ruby on Rails, Node(Advanced) 
             Python, Rust (Intermediate)🛠️.<br/>
-- Serverless: AWS lamda 
+- Serverless:  Redshift, Lambda, Glue, Lake Formation
 
 <br/>
 <br/>

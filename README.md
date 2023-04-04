@@ -1,9 +1,14 @@
-## Hello World👋!
+## Hey! Nice to see you👋!
 
+Welcome to my page!
+I'm Jean, Cloud Architect from Florida US.
+
+Tech stacks I am using mostly are
 - Frontend : React.js, angular (Advanced)<br/>
 - Backend : Asp.net, Ruby on Rails, Node(Advanced) 
             Python, Rust (Intermediate)🛠️.<br/>
-- Serverless: AWS lamda  
+- Serverless: AWS lamda 
+
 <br/>
 <br/>
 

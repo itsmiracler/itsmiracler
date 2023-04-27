@@ -5,8 +5,8 @@ I'm Jean, Cloud Architect from Florida US.
 
 Tech stacks I am using mostly are
 - Frontend : React.js, angular (Advanced)<br/>
-- Backend : Asp.net, Ruby on Rails, Node(Advanced) 
-            Python, Rust (Intermediate)🛠️.<br/>
+- Backend : Laravel, Asp.net, Ruby on Rails, Node(Advanced) 
+            Python🛠️.<br/>
 - Serverless:  Redshift, Lambda, Glue, Lake Formation
 
 <br/>

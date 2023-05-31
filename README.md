@@ -134,5 +134,6 @@ Tech stacks I am using mostly are
 <a href="https://github.com/itsmiracler/" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
 <a href="https://github.com/itsmiracler/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
             
------
+
+------
 *P.S. I am available for hire! [Send me a message](mailto:weslyjean894@gmail.com).*

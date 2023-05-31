@@ -136,4 +136,4 @@ Tech stacks I am using mostly are
             
 
 ------
-*P.S. I am available for hire! [Send me a message](mailto:weslyjean894@gmail.com).*
+*[Send me a message](mailto:weslyjean894@gmail.com).*

@@ -1,7 +1,7 @@
 ## Software is beautiful👋!
 
 Welcome to my page!
-I'm Jean, Cloud Architect from Florida US.
+I'm Jean, Cloud Architect/Web Developer
 
 Tech stacks I am using mostly are
 - Frontend : React.js, angular (Advanced)<br/>

@@ -1,14 +1,15 @@
 ## Software is beautiful👋!
 
 Welcome to my page!
-I'm Jean, Cloud Architect/Web Developer
+I'm Jean, AI/ML | Cloud Architect | Web Full Stack Developer
 
 Tech stacks I am using mostly are
+- AI/ML : GenAI, LLM, NLP, Reinforcement Learning, Data Science, ML algorithms
+- Cloud : AWS, Azure, GCP
 - Frontend : React.js, angular (Advanced)<br/>
 - Backend : Laravel, Asp.net, Ruby on Rails, Node(Advanced) 
             Python🛠️.<br/>
 - Serverless:  Redshift, Lambda, Glue, Lake Formation
-
 <br/>
 <br/>
 

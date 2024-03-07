@@ -1,7 +1,7 @@
 ## Software is beautiful👋!
 
 Welcome to my page!
-I'm Jean, AI/ML | Cloud Architect | Web Full Stack Developer
+I'm Jean, | Web | AI/ML Engineer
 
 Tech stacks I am using mostly are
 - AI/ML : GenAI, LLM, NLP, Reinforcement Learning, Data Science, ML algorithms

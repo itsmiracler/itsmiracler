@@ -31,6 +31,7 @@ Tech stacks I am using mostly are
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="left">
   <a href="https://github.com/itsmiracler/Practical-CleanArchitecture"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=itsmiracler&repo=Practical-CleanArchitecture&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="practical-cleanArchitecture"></a>
+<a href="https://github.com/itsmiracler/chatbot-awesome-baize"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=itsmiracler&repo=chatbot-awesome-baize&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="chatbot-baize"></a>
   <a href="https://github.com/itsmiracler/aws-cloud-experiments"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=itsmiracler&repo=aws-cloud-experiments&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="aws-cloud-experiments"></a>
   <a href="https://github.com/itsmiracler/MicroErp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=itsmiracler&repo=MicroErp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 </p>

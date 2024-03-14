@@ -123,7 +123,7 @@ Tech stacks I am using mostly are
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
-![Stats Overview](https://user-images.githubusercontent.com/33221818/195592283-309cc41b-d248-4d37-a394-7b542a7ad94c.svg)
+![Stats Overview](https://github-production-user-asset-6210df.s3.amazonaws.com/33221818/312905103-bda6a080-b2bc-4022-91c0-721ef9ab5e85.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240314%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240314T154530Z&X-Amz-Expires=300&X-Amz-Signature=0846f543ecab49b50e84c8d659450697993a5f476961fd3c00e7419a38659d9c&X-Amz-SignedHeaders=host&actor_id=33221818&key_id=0&repo_id=301573344)
 ![Most Used Languages](https://user-images.githubusercontent.com/33221818/195927089-4a964a15-4b4a-4bb4-b597-e44a7e0834a1.svg)
 
 </a>

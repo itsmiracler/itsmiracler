@@ -1,15 +1,13 @@
 ## Software is beautiful👋!
 
 Welcome to my page!
-I'm Jean, | Web | AI/ML Engineer
+I'm a Miracle maker | Frontend | AI/ML Engineer
 
 Tech stacks I am using mostly are
-- AI/ML : GenAI, LLM, NLP, Reinforcement Learning, Data Science, ML algorithms
-- Cloud : AWS, Azure, GCP
 - Frontend : React.js, angular (Advanced)<br/>
-- Backend : Laravel, Asp.net, Ruby on Rails, Node(Advanced) 
-            Python🛠️.<br/>
-- Serverless:  Redshift, Lambda, Glue, Lake Formation
+- AI/ML : GenAI, LLM, NLP, Reinforcement Learning, Data Science, ML algorithms
+- ERP(Netsuite)
+
 <br/>
 <br/>
 

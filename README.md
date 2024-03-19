@@ -6,7 +6,7 @@ I'm a Miracle maker | Frontend | AI/ML Engineer
 Tech stacks I am using mostly are
 - Frontend : React.js, angular (Advanced)<br/>
 - AI/ML : GenAI, LLM, NLP, Reinforcement Learning, Data Science, ML algorithms
-- ERP(Netsuite)
+- ERP
 
 <br/>
 <br/>

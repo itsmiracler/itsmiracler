@@ -1,13 +1,14 @@
 ## Software is beautiful👋!
 
 Welcome to my page!
-I'm a Miracle maker | Frontend | AI/ML Engineer
+I'm a Miracle maker | Fullstack | AI/ML | Blockchain Engineer 
 
 Tech stacks I am using mostly are
 - Frontend : React.js, angular (Advanced)<br/>
 - Backend: Node, Php, Asp.Net. Rails, Python
 - Netsuite/ServiceNow
 - AI/ML : GenAI, LLM, NLP, Reinforcement Learning, Data Science, ML algorithms
+- Blockchain: Protocal, Cryptography, Smart Contract, Web3, Dapp
 
 
 <br/>
@@ -129,5 +130,4 @@ Tech stacks I am using mostly are
 <a href="https://github.com/itsmiracler/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
             
 
-------
-*[Send me a message](mailto:weslyjean894@gmail.com).*
+
